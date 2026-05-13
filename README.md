@@ -34,7 +34,7 @@ Currently diving deep into:
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,Bootstrap,react" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,react" alt="Languages & Frameworks" />
 </p>
 
 ### **Tools & Platforms**
