@@ -34,12 +34,12 @@ Currently diving deep into:
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,Bootstrap,react" alt="Languages & Frameworks" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,eclipse,vscode" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode" alt="Tools & Platforms" />
 </p>
 
 </div>
